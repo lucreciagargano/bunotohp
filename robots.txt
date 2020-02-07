@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fiepheiwe.basetta.bz/sitemap.xml
